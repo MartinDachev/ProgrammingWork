@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kurskal\bin\Debug\Kurskal.exe
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kurskal\bin\Debug\Kurskal.pdb
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kurskal\obj\Debug\Kurskal.exe
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kurskal\obj\Debug\Kurskal.pdb

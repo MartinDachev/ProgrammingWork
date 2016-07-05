@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem3-Ride-The-Horse\bin\Debug\Problem3-Ride-The-Horse.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem3-Ride-The-Horse\bin\Debug\Problem3-Ride-The-Horse.exe
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem3-Ride-The-Horse\bin\Debug\Problem3-Ride-The-Horse.pdb
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem3-Ride-The-Horse\obj\Debug\Problem3-Ride-The-Horse.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem3-Ride-The-Horse\obj\Debug\Problem3-Ride-The-Horse.exe
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem3-Ride-The-Horse\obj\Debug\Problem3-Ride-The-Horse.pdb

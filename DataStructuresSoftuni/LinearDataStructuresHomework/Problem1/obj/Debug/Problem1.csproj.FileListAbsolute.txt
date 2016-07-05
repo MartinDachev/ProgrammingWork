@@ -1,0 +1,8 @@
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem1\bin\Debug\Problem1.exe
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem1\bin\Debug\Problem1.pdb
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem1\obj\Debug\Problem1.exe
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem1\obj\Debug\Problem1.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem1\bin\Debug\Problem1.exe
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem1\obj\Debug\Problem1.exe
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem1\obj\Debug\Problem1.pdb

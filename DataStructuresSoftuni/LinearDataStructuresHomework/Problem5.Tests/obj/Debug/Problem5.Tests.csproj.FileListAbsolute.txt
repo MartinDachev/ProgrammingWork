@@ -1,0 +1,21 @@
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\obj\Debug\Problem5.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.Tests.dll
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.Tests.pdb
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.exe
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.pdb
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\obj\Debug\Problem5.Tests.dll
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem5.Tests\obj\Debug\Problem5.Tests.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.Tests.dll
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.Tests.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.exe
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\bin\Debug\Problem5.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\obj\Debug\Problem5.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\obj\Debug\Problem5.Tests.dll
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem5.Tests\obj\Debug\Problem5.Tests.pdb
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\bin\Debug\Problem5.Tests.dll
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\bin\Debug\Problem5.Tests.pdb
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\bin\Debug\Problem5.exe
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\bin\Debug\Problem5.pdb
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\obj\Debug\Problem5.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\obj\Debug\Problem5.Tests.dll
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem5.Tests\obj\Debug\Problem5.Tests.pdb

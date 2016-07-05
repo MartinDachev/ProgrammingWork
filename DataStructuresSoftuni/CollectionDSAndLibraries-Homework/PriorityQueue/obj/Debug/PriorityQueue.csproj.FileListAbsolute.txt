@@ -1,0 +1,11 @@
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\bin\Debug\PriorityQueue.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\bin\Debug\PriorityQueue.pdb
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\bin\Debug\BinaryHeap.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\bin\Debug\BinaryHeap.pdb
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\obj\Debug\PriorityQueue.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\PriorityQueue\obj\Debug\PriorityQueue.pdb
+C:\Users\marti\Desktop\CollectionDSAndLibraries-Homework\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+C:\Users\marti\Desktop\CollectionDSAndLibraries-Homework\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\Users\marti\Desktop\CollectionDSAndLibraries-Homework\PriorityQueue\obj\Debug\PriorityQueue.pdb

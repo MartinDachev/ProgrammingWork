@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem1-Find-The-Root\bin\Debug\Problem1-Find-The-Root.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem1-Find-The-Root\bin\Debug\Problem1-Find-The-Root.exe
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem1-Find-The-Root\bin\Debug\Problem1-Find-The-Root.pdb
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem1-Find-The-Root\obj\Debug\Problem1-Find-The-Root.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem1-Find-The-Root\obj\Debug\Problem1-Find-The-Root.exe
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem1-Find-The-Root\obj\Debug\Problem1-Find-The-Root.pdb

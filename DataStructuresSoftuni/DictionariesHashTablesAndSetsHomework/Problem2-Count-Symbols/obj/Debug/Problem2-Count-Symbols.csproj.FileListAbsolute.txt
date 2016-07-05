@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\bin\Debug\Problem2-Count-Symbols.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\bin\Debug\Problem2-Count-Symbols.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\bin\Debug\Problem2-Count-Symbols.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\obj\Debug\Problem2-Count-Symbols.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\obj\Debug\Problem2-Count-Symbols.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\obj\Debug\Problem2-Count-Symbols.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\bin\Debug\Problem1-Dictionary.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem2-Count-Symbols\bin\Debug\Problem1-Dictionary.pdb

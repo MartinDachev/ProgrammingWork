@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\6. Snakes\bin\Debug\_6.Snakes.exe
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\6. Snakes\bin\Debug\_6.Snakes.pdb
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\6. Snakes\obj\Debug\_6.Snakes.exe
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\6. Snakes\obj\Debug\_6.Snakes.pdb
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\6. Snakes\obj\Debug\6. Snakes.csprojResolveAssemblyReference.cache

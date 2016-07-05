@@ -1,0 +1,8 @@
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\bin\Debug\BiDictionary.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\bin\Debug\BiDictionary.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\bin\Debug\BiDictionary.pdb
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\bin\Debug\DictionaryExtensionsLib.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\bin\Debug\DictionaryExtensionsLib.pdb
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\obj\Debug\BiDictionary.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\obj\Debug\BiDictionary.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\BiDictionary\obj\Debug\BiDictionary.pdb

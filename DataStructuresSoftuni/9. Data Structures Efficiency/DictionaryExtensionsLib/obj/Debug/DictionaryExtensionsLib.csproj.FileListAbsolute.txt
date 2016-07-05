@@ -1,0 +1,5 @@
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\DictionaryExtensionsLib\bin\Debug\DictionaryExtensionsLib.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\DictionaryExtensionsLib\bin\Debug\DictionaryExtensionsLib.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\DictionaryExtensionsLib\bin\Debug\DictionaryExtensionsLib.pdb
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\DictionaryExtensionsLib\obj\Debug\DictionaryExtensionsLib.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\DictionaryExtensionsLib\obj\Debug\DictionaryExtensionsLib.pdb

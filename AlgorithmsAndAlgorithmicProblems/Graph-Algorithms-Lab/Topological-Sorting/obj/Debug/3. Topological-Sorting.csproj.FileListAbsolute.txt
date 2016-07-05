@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe.config
+C:\Users\Martin\Desktop\Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe
+C:\Users\Martin\Desktop\Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.pdb
+C:\Users\Martin\Desktop\Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\3. Topological-Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.exe
+C:\Users\Martin\Desktop\Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra\obj\Debug\Dijkstra.pdb

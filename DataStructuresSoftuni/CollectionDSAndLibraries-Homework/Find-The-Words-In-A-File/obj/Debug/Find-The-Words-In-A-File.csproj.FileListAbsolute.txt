@@ -1,0 +1,8 @@
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\bin\Debug\Find-The-Words-In-A-File.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\bin\Debug\Find-The-Words-In-A-File.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\bin\Debug\Find-The-Words-In-A-File.pdb
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\bin\Debug\PowerCollections.dll
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\bin\Debug\PowerCollections.xml
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\obj\Debug\Find-The-Words-In-A-File.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\obj\Debug\Find-The-Words-In-A-File.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Find-The-Words-In-A-File\obj\Debug\Find-The-Words-In-A-File.pdb

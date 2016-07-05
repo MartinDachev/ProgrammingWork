@@ -1,0 +1,6 @@
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\IntervalTree\bin\Debug\IntervalTree.exe.config
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\IntervalTree\bin\Debug\IntervalTree.exe
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\IntervalTree\bin\Debug\IntervalTree.pdb
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\IntervalTree\obj\Debug\IntervalTree.csprojResolveAssemblyReference.cache
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\IntervalTree\obj\Debug\IntervalTree.exe
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\IntervalTree\obj\Debug\IntervalTree.pdb

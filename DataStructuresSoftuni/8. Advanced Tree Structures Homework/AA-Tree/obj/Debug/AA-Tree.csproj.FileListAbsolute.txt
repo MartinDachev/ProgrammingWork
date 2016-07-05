@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\AA-Tree\bin\Debug\AA-Tree.exe.config
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\AA-Tree\bin\Debug\AA-Tree.exe
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\AA-Tree\bin\Debug\AA-Tree.pdb
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\AA-Tree\obj\Debug\AA-Tree.csprojResolveAssemblyReference.cache
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\AA-Tree\obj\Debug\AA-Tree.exe
+C:\Users\marti\documents\visual studio 2015\Projects\8. Advanced Tree Structures Homework\AA-Tree\obj\Debug\AA-Tree.pdb

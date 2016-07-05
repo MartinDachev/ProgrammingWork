@@ -1,0 +1,6 @@
+c:\users\martin d\documents\visual studio 2012\Projects\Crossword\Crossword\bin\Debug\Crossword.exe.config
+c:\users\martin d\documents\visual studio 2012\Projects\Crossword\Crossword\bin\Debug\Crossword.exe
+c:\users\martin d\documents\visual studio 2012\Projects\Crossword\Crossword\bin\Debug\Crossword.pdb
+c:\users\martin d\documents\visual studio 2012\Projects\Crossword\Crossword\obj\Debug\Crossword.csprojResolveAssemblyReference.cache
+c:\users\martin d\documents\visual studio 2012\Projects\Crossword\Crossword\obj\Debug\Crossword.exe
+c:\users\martin d\documents\visual studio 2012\Projects\Crossword\Crossword\obj\Debug\Crossword.pdb

@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\1. Permutations Without Repetition\bin\Debug\_1.Permutations_Without_Repetition.exe
+c:\users\martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\1. Permutations Without Repetition\bin\Debug\_1.Permutations_Without_Repetition.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\1. Permutations Without Repetition\obj\Debug\1. Permutations Without Repetition.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\1. Permutations Without Repetition\obj\Debug\_1.Permutations_Without_Repetition.exe
+c:\users\martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\1. Permutations Without Repetition\obj\Debug\_1.Permutations_Without_Repetition.pdb

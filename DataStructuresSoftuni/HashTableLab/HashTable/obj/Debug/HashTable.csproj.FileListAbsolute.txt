@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\HashTableLab\HashTable\bin\Debug\HashTable.exe
+C:\Users\marti\Desktop\HashTableLab\HashTable\bin\Debug\HashTable.pdb
+C:\Users\marti\Desktop\HashTableLab\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\HashTableLab\HashTable\obj\Debug\HashTable.exe
+C:\Users\marti\Desktop\HashTableLab\HashTable\obj\Debug\HashTable.pdb

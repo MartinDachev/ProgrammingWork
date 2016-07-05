@@ -1,0 +1,5 @@
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\ListHomework\Problem6\obj\Debug\Problem6.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\ListHomework\Problem6\bin\Debug\Problem6.exe
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\ListHomework\Problem6\bin\Debug\Problem6.pdb
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\ListHomework\Problem6\obj\Debug\Problem6.exe
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\ListHomework\Problem6\obj\Debug\Problem6.pdb

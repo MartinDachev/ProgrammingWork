@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\BianryHeapLab\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\marti\Desktop\BianryHeapLab\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\marti\Desktop\BianryHeapLab\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\BianryHeapLab\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\marti\Desktop\BianryHeapLab\BinaryHeap\obj\Debug\BinaryHeap.pdb

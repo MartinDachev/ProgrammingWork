@@ -1,0 +1,7 @@
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb

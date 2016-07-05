@@ -1,0 +1,14 @@
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.Tests.dll
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.Tests.pdb
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.exe
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.pdb
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\obj\Debug\Problem7.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\obj\Debug\Problem7.Tests.dll
+C:\Users\Martin D\documents\visual studio 2012\Projects\LinearDataStructures\Problem7.Tests\obj\Debug\Problem7.Tests.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.Tests.dll
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.Tests.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.exe
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\bin\Debug\Problem7.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\obj\Debug\Problem7.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\obj\Debug\Problem7.Tests.dll
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem7.Tests\obj\Debug\Problem7.Tests.pdb

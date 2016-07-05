@@ -1,0 +1,1 @@
+This is a problem from a Telerik Academy Exam.

@@ -1,0 +1,8 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\bin\Debug\Part-II.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\bin\Debug\Part-II.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\bin\Debug\Part-II.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\bin\Debug\PowerCollections.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\bin\Debug\PowerCollections.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\obj\Debug\String-Editor.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\obj\Debug\Part-II.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\CollectionDSAndLibraries-Homework\String-Editor\obj\Debug\Part-II.pdb

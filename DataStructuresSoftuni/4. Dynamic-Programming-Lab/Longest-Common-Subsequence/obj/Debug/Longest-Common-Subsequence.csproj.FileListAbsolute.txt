@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\bin\Debug\Longest-Common-Subsequence.exe
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\bin\Debug\Longest-Common-Subsequence.pdb
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\obj\Debug\Longest-Common-Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\obj\Debug\Longest-Common-Subsequence.exe
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\obj\Debug\Longest-Common-Subsequence.pdb

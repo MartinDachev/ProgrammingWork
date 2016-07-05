@@ -1,0 +1,15 @@
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem3\bin\Debug\Problem3.exe
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem3\bin\Debug\Problem3.pdb
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem3\obj\Debug\Problem3.exe
+c:\users\martin d\documents\visual studio 2012\Projects\LinearDataStructures\Problem3\obj\Debug\Problem3.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem3\bin\Debug\Problem3.exe
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem3\bin\Debug\Problem3.pdb
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem3\obj\Debug\Problem3.exe
+C:\Users\Martin D\Desktop\LinearDataStructures\Problem3\obj\Debug\Problem3.pdb
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem3\bin\Debug\Problem3.exe
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem3\bin\Debug\Problem3.pdb
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem3\obj\Debug\Problem3.exe
+C:\Users\Martin D\Desktop\LinearDataStructuresHomework\Problem3\obj\Debug\Problem3.pdb

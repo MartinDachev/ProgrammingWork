@@ -1,0 +1,7 @@
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.Tests.dll
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.Tests.pdb
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.exe
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.pdb
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.dll
+C:\Users\Martin\Desktop\Advanced-Graph-Algos-Lab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.pdb

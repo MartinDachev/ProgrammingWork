@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1419687176 source:e:\programming\c++\map_color\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<vector>
+	<queue>
+	<string>
+

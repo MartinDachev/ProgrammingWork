@@ -1,0 +1,4 @@
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Knapsack-Problem\bin\Debug\Knapsack-Problem.exe
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Knapsack-Problem\bin\Debug\Knapsack-Problem.pdb
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Knapsack-Problem\obj\Debug\Knapsack-Problem.exe
+C:\Users\marti\Desktop\4. Dynamic-Programming-Lab\Knapsack-Problem\obj\Debug\Knapsack-Problem.pdb

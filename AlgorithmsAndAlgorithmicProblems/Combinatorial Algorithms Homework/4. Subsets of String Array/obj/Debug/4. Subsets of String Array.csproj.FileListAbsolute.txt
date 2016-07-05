@@ -1,0 +1,5 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\4. Subsets of String Array\bin\Debug\_4.Subsets_of_String_Array.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\4. Subsets of String Array\bin\Debug\_4.Subsets_of_String_Array.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\4. Subsets of String Array\obj\Debug\4. Subsets of String Array.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\4. Subsets of String Array\obj\Debug\_4.Subsets_of_String_Array.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\4. Subsets of String Array\obj\Debug\_4.Subsets_of_String_Array.pdb

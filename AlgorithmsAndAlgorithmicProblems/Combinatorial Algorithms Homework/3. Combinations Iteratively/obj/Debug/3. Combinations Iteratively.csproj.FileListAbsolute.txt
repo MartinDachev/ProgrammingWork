@@ -1,0 +1,5 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\3. Combinations Iteratively\bin\Debug\_3.Combinations_Iteratively.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\3. Combinations Iteratively\bin\Debug\_3.Combinations_Iteratively.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\3. Combinations Iteratively\obj\Debug\3. Combinations Iteratively.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\3. Combinations Iteratively\obj\Debug\_3.Combinations_Iteratively.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\3. Combinations Iteratively\obj\Debug\_3.Combinations_Iteratively.pdb

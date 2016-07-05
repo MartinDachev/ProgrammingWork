@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\Students-And-Courses\bin\Debug\Students-And-Courses.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\Students-And-Courses\bin\Debug\Students-And-Courses.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\Students-And-Courses\bin\Debug\Students-And-Courses.pdb
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\Students-And-Courses\obj\Debug\Students-And-Courses.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\Students-And-Courses\obj\Debug\Students-And-Courses.exe
+C:\Users\marti\Documents\Visual Studio 2015\9. Data Structures Efficiency\Students-And-Courses\obj\Debug\Students-And-Courses.pdb

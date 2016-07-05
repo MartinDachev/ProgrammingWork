@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem2-Round-Dance\bin\Debug\Problem2-Round-Dance.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem2-Round-Dance\bin\Debug\Problem2-Round-Dance.exe
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem2-Round-Dance\bin\Debug\Problem2-Round-Dance.pdb
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem2-Round-Dance\obj\Debug\Problem2-Round-Dance.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem2-Round-Dance\obj\Debug\Problem2-Round-Dance.exe
+c:\users\marti\documents\visual studio 2015\Projects\TreeAndGraphTraversalHomework\Problem2-Round-Dance\obj\Debug\Problem2-Round-Dance.pdb

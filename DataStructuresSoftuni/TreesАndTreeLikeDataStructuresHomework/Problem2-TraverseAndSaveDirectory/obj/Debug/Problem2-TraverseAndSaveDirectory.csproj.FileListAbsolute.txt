@@ -1,0 +1,5 @@
+C:\Users\Martin D\documents\visual studio 2012\Projects\TreesАndTreeLikeDataStructuresHomework\Problem2-TraverseAndSaveDirectory\bin\Debug\Problem2-TraverseAndSaveDirectory.exe
+C:\Users\Martin D\documents\visual studio 2012\Projects\TreesАndTreeLikeDataStructuresHomework\Problem2-TraverseAndSaveDirectory\bin\Debug\Problem2-TraverseAndSaveDirectory.pdb
+C:\Users\Martin D\documents\visual studio 2012\Projects\TreesАndTreeLikeDataStructuresHomework\Problem2-TraverseAndSaveDirectory\obj\Debug\Problem2-TraverseAndSaveDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\documents\visual studio 2012\Projects\TreesАndTreeLikeDataStructuresHomework\Problem2-TraverseAndSaveDirectory\obj\Debug\Problem2-TraverseAndSaveDirectory.exe
+C:\Users\Martin D\documents\visual studio 2012\Projects\TreesАndTreeLikeDataStructuresHomework\Problem2-TraverseAndSaveDirectory\obj\Debug\Problem2-TraverseAndSaveDirectory.pdb

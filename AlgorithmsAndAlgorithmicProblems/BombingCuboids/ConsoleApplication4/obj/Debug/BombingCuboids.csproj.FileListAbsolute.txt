@@ -1,0 +1,15 @@
+C:\Users\MAPOKO\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\MAPOKO\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\MAPOKO\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\MAPOKO\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\BombingCuboids.csprojResolveAssemblyReference.cache
+C:\Users\MAPOKO\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\MAPOKO\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+G:\BombingCuboids\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+G:\BombingCuboids\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+G:\BombingCuboids\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\BombingCuboids\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\BombingCuboids\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\BombingCuboids\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\BombingCuboids\ConsoleApplication4\obj\Debug\BombingCuboids.csprojResolveAssemblyReference.cache
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\BombingCuboids\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Martin D\Documents\Visual Studio 2012\Projects\BombingCuboids\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb

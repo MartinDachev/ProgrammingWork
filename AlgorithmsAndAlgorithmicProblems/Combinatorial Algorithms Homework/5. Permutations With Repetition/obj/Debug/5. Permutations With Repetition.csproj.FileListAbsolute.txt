@@ -1,0 +1,10 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\5. Permutations With Repetition\bin\Debug\_5.Permutations_With_Repetition.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\5. Permutations With Repetition\bin\Debug\_5.Permutations_With_Repetition.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\5. Permutations With Repetition\obj\Debug\5. Permutations With Repetition.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\5. Permutations With Repetition\obj\Debug\_5.Permutations_With_Repetition.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\Combinatorial Algorithms Homework\5. Permutations With Repetition\obj\Debug\_5.Permutations_With_Repetition.pdb
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\5. Permutations With Repetition\obj\Debug\_5.Permutations_With_Repetition.exe
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\5. Permutations With Repetition\obj\Debug\_5.Permutations_With_Repetition.pdb
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\5. Permutations With Repetition\bin\Debug\_5.Permutations_With_Repetition.exe
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\5. Permutations With Repetition\bin\Debug\_5.Permutations_With_Repetition.pdb
+C:\Users\Martin\Desktop\Combinatorial Algorithms Homework\5. Permutations With Repetition\obj\Debug\5. Permutations With Repetition.csprojResolveAssemblyReference.cache

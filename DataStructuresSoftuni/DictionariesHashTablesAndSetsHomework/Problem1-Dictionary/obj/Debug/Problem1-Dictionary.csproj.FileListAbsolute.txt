@@ -1,0 +1,4 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem1-Dictionary\bin\Debug\Problem1-Dictionary.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem1-Dictionary\bin\Debug\Problem1-Dictionary.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem1-Dictionary\obj\Debug\Problem1-Dictionary.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem1-Dictionary\obj\Debug\Problem1-Dictionary.pdb

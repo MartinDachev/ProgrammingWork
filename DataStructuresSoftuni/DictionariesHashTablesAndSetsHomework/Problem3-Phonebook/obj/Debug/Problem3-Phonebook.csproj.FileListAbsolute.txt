@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\bin\Debug\Problem3-Phonebook.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\bin\Debug\Problem3-Phonebook.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\obj\Debug\Problem3-Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\obj\Debug\Problem3-Phonebook.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\obj\Debug\Problem3-Phonebook.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\bin\Debug\Problem1-Dictionary.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\DictionariesHashTablesAndSetsHomework\Problem3-Phonebook\bin\Debug\Problem1-Dictionary.pdb

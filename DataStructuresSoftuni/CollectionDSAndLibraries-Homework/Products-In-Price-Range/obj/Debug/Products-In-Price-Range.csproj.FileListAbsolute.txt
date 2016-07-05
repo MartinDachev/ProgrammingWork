@@ -1,0 +1,8 @@
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\bin\Debug\Products-In-Price-Range.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\bin\Debug\Products-In-Price-Range.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\bin\Debug\Products-In-Price-Range.pdb
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\bin\Debug\PowerCollections.dll
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\bin\Debug\PowerCollections.xml
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\obj\Debug\Products-In-Price-Range.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\obj\Debug\Products-In-Price-Range.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDSAndLibraries-Homework\Products-In-Price-Range\obj\Debug\Products-In-Price-Range.pdb

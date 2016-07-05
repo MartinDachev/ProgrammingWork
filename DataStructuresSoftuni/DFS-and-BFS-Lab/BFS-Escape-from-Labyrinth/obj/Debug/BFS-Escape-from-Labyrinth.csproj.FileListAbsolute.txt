@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\DFS-and-BFS-Lab\BFS-Escape-from-Labyrinth\bin\Debug\Escape-from-Labyrinth.exe
+C:\Users\marti\Desktop\DFS-and-BFS-Lab\BFS-Escape-from-Labyrinth\bin\Debug\Escape-from-Labyrinth.pdb
+C:\Users\marti\Desktop\DFS-and-BFS-Lab\BFS-Escape-from-Labyrinth\obj\Debug\BFS-Escape-from-Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\DFS-and-BFS-Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.exe
+C:\Users\marti\Desktop\DFS-and-BFS-Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.pdb

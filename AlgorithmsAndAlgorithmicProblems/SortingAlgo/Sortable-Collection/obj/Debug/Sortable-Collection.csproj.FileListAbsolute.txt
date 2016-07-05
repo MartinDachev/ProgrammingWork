@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\SortingAlgo\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe.config
+C:\Users\marti\Desktop\SortingAlgo\Sortable-Collection\obj\Debug\Sortable-Collection.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\SortingAlgo\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe
+C:\Users\marti\Desktop\SortingAlgo\Sortable-Collection\bin\Debug\01.Students-And-Courses.pdb
+C:\Users\marti\Desktop\SortingAlgo\Sortable-Collection\obj\Debug\01.Students-And-Courses.exe
+C:\Users\marti\Desktop\SortingAlgo\Sortable-Collection\obj\Debug\01.Students-And-Courses.pdb

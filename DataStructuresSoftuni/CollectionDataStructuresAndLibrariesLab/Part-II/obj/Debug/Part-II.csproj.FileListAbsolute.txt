@@ -1,0 +1,8 @@
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\bin\Debug\Part-II.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\bin\Debug\Part-II.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\bin\Debug\Part-II.pdb
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\bin\Debug\PowerCollections.dll
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\bin\Debug\PowerCollections.xml
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\obj\Debug\Part-II.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\obj\Debug\Part-II.exe
+c:\users\marti\documents\visual studio 2015\Projects\CollectionDataStructuresAndLibrariesLab\Part-II\obj\Debug\Part-II.pdb
