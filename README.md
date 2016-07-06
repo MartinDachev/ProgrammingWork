@@ -1,4 +1,4 @@
 # ProgrammingWork
 Homeworks, Exams, Algos and Data Structures
 
-Lots of hours & sweat spend on learning and writing these!
+Lots of hours & sweat spent on learning and writing these!
